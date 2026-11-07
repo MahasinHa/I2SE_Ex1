@@ -12,7 +12,6 @@ Because a plane is infinite, we define the area we want to project using 3 or 4 
 
 ## Requirements (SRS)
 
-Based on the [SRS](https://en.wikipedia.org/wiki/Software_requirements_specification) guidelines:
 - **Input**:
   - A 3D `.nrrd` file (supports 8, 16, and 32-bit values, raw or gzip).
   - A `.csv` file where each row has 3 or 4 3D points.
